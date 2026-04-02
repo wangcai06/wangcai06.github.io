@@ -23,7 +23,7 @@ Currently, I am dedicated to mapping advanced AI algorithms onto novel hardware 
 
 # 📝 Publications 
 
-- **Pruning-Optimized Bayesian Neural Networks for Image Classification**, **Caiyuan Wang**, , *2025*. 
+- **Pruning-Optimized Bayesian Neural Networks for Image Classification**, **Caiyuan Wang**, *2025.04*. 
   <details>
   <summary>Abstract (Click to expand)</summary>
   This work investigates the synergy between network pruning and Bayesian inference to achieve high-accuracy image classification with significantly reduced computational overhead. We demonstrate that pruning can effectively regularize Bayesian Neural Networks, leading to sparser and faster models that retain the benefits of uncertainty estimation.
