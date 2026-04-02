@@ -1,7 +1,7 @@
 # Site Settings
 title                    : "Caiyuan Wang"
-description              : "Master Student at Nanjing University, Research Interests: Neuromorphic Computing"
-repository               : "wangcai/wangcai.github.io"
+description              : "Born in 2006, Shanxi, China. Master Student at Beihang University, Research Interests: Neuromorphic Computing"
+repository               : "wangcai06/wangcai06.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -10,12 +10,12 @@ google_analytics_id      : # 暂时留空，有需要再填
 # Site Author
 author:
   name               : "Caiyuan Wang"
-  bio                : "Master Student at Nanjing University"
+  bio                : "Master Student at Beihang University"
   location           : "Beijing, China"
   employer           : "Beihang University"
   googlescholar      : # 既然没发论文，可以先空着，或者填你的 Google Scholar 主页链接
   email              : "wangcai06number1@gmail.com" 
-  github             : "wangcai"
+  github             : "wangcai06"
   
 # Reading Files
 include:
