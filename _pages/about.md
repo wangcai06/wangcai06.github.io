@@ -16,9 +16,10 @@ I am a Master student at **Beihang University**, specializing in **Neuromorphic 
 Currently, I am dedicated to mapping advanced AI algorithms onto novel hardware architectures to achieve high robustness and energy efficiency. In addition, I have a strong interest in **Recommender Systems (RecSys)**. 
 
 # 🔥 News
+- *2025.12*: &nbsp;🏆 Awarded the **National Scholarship** (Top 0.2%).
 - *2025.04*: &nbsp;🎉 My paper "**Pruning-Optimized Bayesian Neural Networks for Image Classification**" has been completed/published.
 - *2024.11*: &nbsp;🚀 Leading the National Undergraduate Training Program on Memristor-based Bayesian Deep Learning.
-- *2025.10*: &nbsp;🏆 Awarded the **National Scholarship** (Top 0.2%).
+- *2024.11*: &nbsp;🌟 Awarded the **Provincial Government Scholarship**.
 
 # 📝 Publications 
 
