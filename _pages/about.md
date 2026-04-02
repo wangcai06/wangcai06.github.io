@@ -42,5 +42,5 @@ Currently, I am dedicated to mapping advanced AI algorithms onto novel hardware 
 - *2026.09 - 2029.06*, **Beihang University**, Graduate Student
 
 # 💻 Skills
-- **Programming:** Python, JAVA
+- **Programming:** Python, Pytorch, Java
 - **Research:** Neuromorphic Computing, Deep Learning, Recommendation Algorithm
